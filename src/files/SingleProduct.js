@@ -34,7 +34,7 @@ export const SingleProduct = () => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  if (isSingleLoading) {
+  if(isSingleLoading) {
     return <div className="page_loading">Loading...</div>;
   }
 
@@ -188,4 +188,4 @@ const Wrapper = styled.section`
   }
 `;
 
-export default SingleProduct;
+export default SingleProduct; 

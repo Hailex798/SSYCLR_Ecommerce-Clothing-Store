@@ -1,9 +1,13 @@
+import React from "react"
 import styled from "styled-components";
 import Button from "../styles/Button"
 import { useAuth0 } from "@auth0/auth0-react";
 
 const Contact = () => {
   const { isAuthenticated, user } = useAuth0();
+  const [name, setName] = React.useState()
+  const [email, setEmail] = React.useState()
+
   return (
     <Wrapper>
       <h2 className="common-heading">CONTACT PAGE</h2>
@@ -24,19 +28,21 @@ const Contact = () => {
             type="text"
             placeholder="username"
             name="username"
-            value={isAuthenticated ? user.name : ""}
+            value={isAuthenticated ? user.name : name}
+            onChange={(e) => setName(e.target.value)}
             autoComplete="off"
             />
             <input
             type="email"
             placeholder="Email"
             name="Email"
-            value={isAuthenticated ? user.email : ""}
+            value={isAuthenticated ? user.email : email}
+            onChange={(e) => setEmail(e.target.value)}
             autoComplete="off"
             required
             />
             <textarea name="textarea" id="" cols="30" rows="10" placeholder="Enter your Message"></textarea>
-            <Button>Send</Button>
+            <Button type="submit">Send</Button>
           </form>
         </div>
       </div>
