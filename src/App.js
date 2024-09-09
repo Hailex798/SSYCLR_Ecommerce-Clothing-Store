@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css"
 import { ThemeProvider } from "styled-components";
 
-import GlobalStyle from "./files/GlobalStyle"
+import GlobalStyle from "./files/GlobalStyle";
 import Home from "./files/Home";
 import About from "./files/About";
 import Products from "./files/Products";
@@ -11,7 +11,7 @@ import Contact from "./files/Contact";
 import Cart from "./files/Cart";
 import SingleProduct from "./files/SingleProduct";
 import Error from "./files/Error";
-import Header from "./components/Header"
+import Header from "./components/Header";
 import Footer from "./components/Footer";
 
 const App = () => {

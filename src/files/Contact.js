@@ -37,7 +37,7 @@ const Contact = () => {
             placeholder="Email"
             name="Email"
             value={isAuthenticated ? user.email : email}
-            onChange={(e) => setEmail(e.target.value)}
+            onChange={(e) => setEmail(e.target.value)} 
             autoComplete="off"
             required
             />
