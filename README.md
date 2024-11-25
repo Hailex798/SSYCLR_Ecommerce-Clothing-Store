@@ -98,7 +98,7 @@ Below are visual previews of the application’s various pages and features. Cli
   - Dynamic product grid with advanced filtering options.  
   - Intuitive design for enhanced shopping experience.
 
-  ![Product Page Screenshot 1](./public/samples/prouduct1.png)
+  ![Product Page Screenshot 1](./public/samples/product1.png)
   ![Product Page Screenshot 2](./public/samples/product2.png)
   ![Product Page Screenshot 3](./public/samples/product3.png)
 
