@@ -1,4 +1,4 @@
-# ✨ **SSYCLR: Minimalist Clothing E-Commerce Platform** ✨  
+# ✨ **SSYCLR: Minimalist Clothing E-Commerce Platform**  
 > _"Redefining shopping for minimalist fashion with technology and simplicity."_  
 
 Welcome to **SSYCLR**, a fully functional and thoughtfully crafted e-commerce platform tailored for a minimalist clothing brand. This repository houses the entire source code, documentation, and setup instructions for a modern e-commerce application, designed to provide a seamless shopping experience and clean, scalable architecture for future enhancements.
@@ -67,8 +67,8 @@ Experience the live version here:
 
 Below are visual previews of the application’s various pages and features. Click on the dropdown arrows to view the corresponding screenshots.
 
-![Homepage Header](./public/samples/home1)
-![Homepage Footer](./public/samples/home2)
+![Homepage Header](./public/samples/home1.png)
+![Homepage Footer](./public/samples/home2.png)
 
 <details>
   <summary>🏠 <strong>Home Page</strong> (Click to Expand)</summary>
@@ -76,8 +76,8 @@ Below are visual previews of the application’s various pages and features. Cli
   - An elegant landing page introducing the brand.  
   - Clear navigation and a minimalist design to captivate users.
 
-  ![Homepage Product List](./public/samples/home3)
-  ![Homepage Services](./public/samples/home4)
+  ![Homepage Product List](./public/samples/home3.png)
+  ![Homepage Services](./public/samples/home4.png)
 
 </details>
 
@@ -87,8 +87,8 @@ Below are visual previews of the application’s various pages and features. Cli
   - Learn more about the brand's vision and mission.  
   - A dedicated page to get in touch with the company's team & store's location.
 
-  ![About Us Screenshot 1](./public/samples/about1)
-  ![Contact Section Screenshot 1](./public/samples/contact1)
+  ![About Us Screenshot 1](./public/samples/about1.png)
+  ![Contact Section Screenshot 1](./public/samples/contact1.png)
 
 </details>
 
@@ -98,9 +98,9 @@ Below are visual previews of the application’s various pages and features. Cli
   - Dynamic product grid with advanced filtering options.  
   - Intuitive design for enhanced shopping experience.
 
-  ![Product Page Screenshot 1](./public/samples/prouduct1)
-  ![Product Page Screenshot 2](./public/samples/product2)
-  ![Product Page Screenshot 3](./public/samples/product3)
+  ![Product Page Screenshot 1](./public/samples/prouduct1.png)
+  ![Product Page Screenshot 2](./public/samples/product2.png)
+  ![Product Page Screenshot 3](./public/samples/product3.png)
 
 </details>
 
@@ -110,8 +110,8 @@ Below are visual previews of the application’s various pages and features. Cli
   - Manage selected items with real-time updates and price calculations.  
   - Minimalist design ensuring ease of use.
 
-  ![Cart Screenshot 1](./public/samples/cart1)
-  ![Cart Screenshot 2](./public/samples/cart2)
+  ![Cart Screenshot 1](./public/samples/cart1.png)
+  ![Cart Screenshot 2](./public/samples/cart2.png)
 
 </details>
 
@@ -121,8 +121,8 @@ Below are visual previews of the application’s various pages and features. Cli
   - Secure Firebase Auth0 login with Google and email integration.  
   - Personalized experience post-login.
 
-  ![Authentication Screenshot 1](./public/samples/auth1)
-  ![Authentication Screenshot 2](./public/samples/auth2)
+  ![Authentication Screenshot 1](./public/samples/auth1.png)
+  ![Authentication Screenshot 2](./public/samples/auth2.png)
 
 </details>
 
