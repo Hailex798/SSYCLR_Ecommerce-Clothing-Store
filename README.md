@@ -68,6 +68,7 @@ Experience the live version here:
 Below are visual previews of the application’s various pages and features. Click on the dropdown arrows to view the corresponding screenshots.
 
 ![Homepage Header](./public/samples/home1.png)
+---
 ![Homepage Footer](./public/samples/home2.png)
 
 <details>
@@ -77,6 +78,7 @@ Below are visual previews of the application’s various pages and features. Cli
   - Clear navigation and a minimalist design to captivate users.
 
   ![Homepage Product List](./public/samples/home3.png)
+  ---
   ![Homepage Services](./public/samples/home4.png)
 
 </details>
@@ -88,6 +90,7 @@ Below are visual previews of the application’s various pages and features. Cli
   - A dedicated page to get in touch with the company's team & store's location.
 
   ![About Us Screenshot 1](./public/samples/about1.png)
+  ---
   ![Contact Section Screenshot 1](./public/samples/contact1.png)
 
 </details>
@@ -99,7 +102,9 @@ Below are visual previews of the application’s various pages and features. Cli
   - Intuitive design for enhanced shopping experience.
 
   ![Product Page Screenshot 1](./public/samples/product1.png)
+  ---
   ![Product Page Screenshot 2](./public/samples/product2.png)
+  ---
   ![Product Page Screenshot 3](./public/samples/product3.png)
 
 </details>
@@ -111,6 +116,7 @@ Below are visual previews of the application’s various pages and features. Cli
   - Minimalist design ensuring ease of use.
 
   ![Cart Screenshot 1](./public/samples/cart1.png)
+  ---
   ![Cart Screenshot 2](./public/samples/cart2.png)
 
 </details>
@@ -122,6 +128,7 @@ Below are visual previews of the application’s various pages and features. Cli
   - Personalized experience post-login.
 
   ![Authentication Screenshot 1](./public/samples/auth1.png)
+  ---
   ![Authentication Screenshot 2](./public/samples/auth2.png)
 
 </details>
