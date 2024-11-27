@@ -83,6 +83,7 @@ Below are visual previews of the application’s various pages and features. Cli
   ![Authentication Screenshot 2](./public/samples/auth2.png)
 
 </details>
+*Visit the [Live Site](https://ssyclr.netlify.app/) for a full experience!* 🌐
 
 ---
 
