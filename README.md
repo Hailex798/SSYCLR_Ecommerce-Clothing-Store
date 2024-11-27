@@ -14,55 +14,6 @@ SSYCLR is more than just an e-commerce platform—it's a **modern user-first web
 
 ---
 
-## ✨ **Core Features**
-
-### 🔍 **Minimalist User Interface**  
-- Designed with simplicity and clarity to enhance usability while maintaining brand focus.
-- Fully responsive design for seamless usage across devices.
-
-### 🛒 **Shopping Features**  
-1. **Product Listing**: Dynamic rendering of products fetched via APIs.  
-2. **Filtering Options**:  
-   - By **company**, **color**, and **price range**.  
-   - One-click **reset filter** functionality for ease of navigation.  
-3. **Product Details Page**:  
-   - **Left Panel**: Interactive product image gallery.  
-   - **Right Panel**: Detailed descriptions, features, pricing, and customization options.  
-   - Add-to-cart functionality with quantity and color selectors.
-
-### 🔒 **Authentication**  
-- Secure **OAuth-based login** via Firebase Auth0 (Google, email, and more).  
-- Authenticated users get access to personalized profiles.
-
-### 🚀 **Advanced Cart Management**  
-- Persistent cart stored in **local storage**, ensuring no data loss on page reload.  
-- Real-time cart updates, final price calculations, and a "Continue Shopping" option.  
-
----
-
-## 💻 **Tech Stack**
-
-This project leverages modern web development technologies and tools to ensure optimal performance and developer efficiency:
-
-| **Category**           | **Tech**                                 |
-|-------------------------|------------------------------------------|
-| Frontend Framework      | React.js                                |
-| Build Tool              | Vite                                    |
-| Authentication          | Firebase Auth0                          |
-| State Management        | React Context API                       |
-| Deployment              | Netlify                                 |
-| Data Storage (Local)    | Local Storage (Browser-based)           |
-| Future Potential Stack  | MongoDB, Express.js, Node.js (Full MERN)|
-
----
-
-## 🌍 **Live Application**
-
-Experience the live version here:  
-🔗 [**SSYCLR Live Website**](https://ssyclr.netlify.app/)  
-
----
-
 ## 🎨 **Visual Overview**
 
 Below are visual previews of the application’s various pages and features. Click on the dropdown arrows to view the corresponding screenshots.
@@ -135,6 +86,54 @@ Below are visual previews of the application’s various pages and features. Cli
 
 ---
 
+## ✨ **Core Features**
+
+### 🔍 **Minimalist User Interface**  
+- Designed with simplicity and clarity to enhance usability while maintaining brand focus.
+- Fully responsive design for seamless usage across devices.
+
+### 🛒 **Shopping Features**  
+1. **Product Listing**: Dynamic rendering of products fetched via APIs.  
+2. **Filtering Options**:  
+   - By **company**, **color**, and **price range**.  
+   - One-click **reset filter** functionality for ease of navigation.  
+3. **Product Details Page**:  
+   - **Left Panel**: Interactive product image gallery.  
+   - **Right Panel**: Detailed descriptions, features, pricing, and customization options.  
+   - Add-to-cart functionality with quantity and color selectors.
+
+### 🔒 **Authentication**  
+- Secure **OAuth-based login** via Firebase Auth0 (Google, email, and more).  
+- Authenticated users get access to personalized profiles.
+
+### 🚀 **Advanced Cart Management**  
+- Persistent cart stored in **local storage**, ensuring no data loss on page reload.  
+- Real-time cart updates, final price calculations, and a "Continue Shopping" option.  
+
+---
+
+## 🌍 **Live Application**
+
+Experience the live version here:  
+🔗 [**SSYCLR Live Website**](https://ssyclr.netlify.app/)  
+
+---
+
+## 💻 **Tech Stack**
+
+This project leverages modern web development technologies and tools to ensure optimal performance and developer efficiency:
+
+| **Category**           | **Tech**                                 |
+|-------------------------|------------------------------------------|
+| Frontend Framework      | React.js                                |
+| Build Tool              | Vite                                    |
+| Authentication          | Firebase Auth0                          |
+| State Management        | React Context API                       |
+| Deployment              | Netlify                                 |
+| Data Storage (Local)    | Local Storage (Browser-based)           |
+| Future Potential Stack  | MongoDB, Express.js, Node.js (Full MERN)|
+
+---
 
 ## 📚 **Installation and Setup**
 
